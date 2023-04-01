@@ -27,6 +27,10 @@ body {
   color: #373a3c;
 }
 
+#tamaño{
+  height: 40em;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
